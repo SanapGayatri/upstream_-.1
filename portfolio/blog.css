@@ -1,0 +1,22 @@
+.infocontaniar_blog{
+    width:60vw;
+    height: 68vh;
+    margin: 120px auto;   
+    text-align:left; 
+}
+
+.infocontaniar_blog h1 ,h2{
+    text-align: left; 
+    color: black;
+}
+
+.blogitem{
+    margin: 20px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.blogitem p{
+    background-color:rgb(35, 73, 113);
+}
